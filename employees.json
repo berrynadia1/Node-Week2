@@ -1,0 +1,64 @@
+{
+    "employees":[
+        {
+            "name":"Nadia Berry",
+            "id":1,
+            "salary":75000,
+            "department":"BoA"
+        },
+        {
+            "name":"Latoya Jackson",
+            "id":2,
+            "salary":53000,
+            "department":"Wells"
+        },
+        {
+            "name":"Jermaine Jackson",
+            "id":3,
+            "salary":50000,
+            "department":"Wells"
+        },
+        {
+            "name":"Tito Jackson",
+            "id":4,
+            "salary":13000,
+            "department":"Burger King"
+        },
+        {
+            "name":"Marlon Jackson",
+            "id":5,
+            "salary":25000,
+            "department":"Novant"
+        },
+        {
+            "name":"Rebbie Jackson",
+            "id":6,
+            "salary":10000,
+            "department":"Waffle House"
+        },
+        {
+            "name":"Janet Jackson",
+            "id":7,
+            "salary":60000,
+            "department":"Security"
+        },
+        {
+            "name":"Randy Jackson",
+            "id":8,
+            "salary":18752,
+            "department":"Certified Nursing Assistant"
+        },
+        {
+            "name":"Jackie Jackson",
+            "id":9,
+            "salary":45000,
+            "department":"Real Estate Agent"
+        },
+        {
+            "name":"Michael Jackson",
+            "id":10,
+            "salary":1000000,
+            "department":"Motown Records"
+        }
+    ]
+}

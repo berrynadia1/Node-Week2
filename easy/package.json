@@ -1,0 +1,13 @@
+{
+  "name": "@nadiao/easy",
+  "version": "1.0.1",
+  "main": "script.js",
+  "repository": "https://github.com/berrynadia1/Node-Week2.git",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Nadia Berry",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {}
+}
